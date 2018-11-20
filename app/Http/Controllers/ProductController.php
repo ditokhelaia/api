@@ -49,7 +49,7 @@ class ProductController extends Controller
     {
 
         return new ProductResource($product);
-        
+
     }
 
     /**
